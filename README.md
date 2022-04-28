@@ -1,2 +1,2 @@
 # ATM-Simulator
-This is a project based on java
+This is a project based on core java
